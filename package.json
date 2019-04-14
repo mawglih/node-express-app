@@ -1,7 +1,7 @@
 {
-  "name": "server-express",
+  "name": "node-express-app",
   "version": "1.0.0",
-  "description": "Small shopping cart challenge code for interview",
+  "description": "boilerplate node server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,7 +14,6 @@
     "body-parser": "^1.17.1",
     "cors": "^2.8.1",
     "express": "^4.15.2",
-    "nodemailer": "^4.6.8",
     "path": "^0.12.7",
     "socket.io": "^2.1.1"
   }
